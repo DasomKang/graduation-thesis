@@ -1,4 +1,4 @@
-# graduation-thesis
+# graduation-thesis (MSc in Statistics)
 
 some materials for graduation thesis
 
