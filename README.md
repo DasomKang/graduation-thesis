@@ -1,6 +1,6 @@
 # graduation-thesis (MSc in Statistics)
 
-some materials for graduation thesis
+some sources for graduation thesis
 
 1. Master Thesis presentation slide with Latex
 2. Code (R & Fortran)
